@@ -1,3 +1,3 @@
-def HelloWorld():
+def hello_world():
   print("Hello World")
   return
